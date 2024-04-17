@@ -28,7 +28,7 @@ const App = () => {
         <section className="mb-[50px]">
           <h2 
             className="mb-[20px] text-center text-2xl sm:text-[30px] text-dark font-bold font-heading">
-              My Skills
+              My Skillset
           </h2>
           <div className="grid sm:mx-[20px] grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
             <span>
