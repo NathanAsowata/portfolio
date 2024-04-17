@@ -50,7 +50,7 @@ const App = () => {
             <span>
               <CheckBox name="Search Engine Optimization" checked  />
               <CheckBox name="Web Accessibility Compliance" checked  />
-              <CheckBox name="Rest API" checked />
+              <CheckBox name="Rest APIs" checked />
               <CheckBox name="React Native"  />
               <CheckBox name="Microservices"  />
             </span>
