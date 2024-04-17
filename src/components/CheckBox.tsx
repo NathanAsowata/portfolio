@@ -10,9 +10,9 @@ const CheckBox = ({name, checked}: customCheckBoxProps) => {
 
     if(checked){
         return (
-            <div className="flex flex-row flex-wrap text-[18px] items-center gap-2">
+            <div className="flex flex-row text-[18px] items-center gap-2">
                 <MdCheckBox className="text-primary text-[20px]" />
-                <p>{name}</p>
+                <span className="overflow-clip">{name}</span>
             </div>
         )
     }

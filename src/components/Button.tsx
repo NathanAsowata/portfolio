@@ -9,7 +9,7 @@ const Button = ({name, url}:buttonProp) => {
     <a 
         href={url} 
         target="_blank"
-        className="border-dark hover:border-transparent border hover:bg-dark text-dark hover:text-white text-[16px] p-3 mx-1 rounded-[50px]"
+        className="border-dark hover:border-transparent border outline-none hover:bg-dark text-dark hover:text-white text-[16px] p-3 mx-1 rounded-[50px]"
     >
       {name}
     </a>
