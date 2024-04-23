@@ -28,7 +28,7 @@ const ProjectCard = ({name, url, github, img, children}: cardProp) => {
                 target="_blank"
                 className="font-medium text-primary hover:text-hover hover:underline text-[18px]"
                 >
-                    Read more on Github &rarr;
+                    Project details &rarr;
             </a>
         </section>
         <img 
