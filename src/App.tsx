@@ -70,12 +70,12 @@ const App = () => {
           img={moviesImage}
           >
             <p>
-              This web app allows you find details about movies, TV shows or related people.
+              This PWA allows you find details about movies, TV shows or related people.
               You can search for a movie, read the movie plot, see the cast and find similar movies.
             </p>
             <br />
             <p>
-              I built this web app with NextJS, styled it with SCSS modules. The data used this project was 
+              I built this Progressive Web App (PWA) with NextJS, styled it with SCSS modules. The data used this project was 
               provided by TheMovieDB's API
             </p>
         </ProjectCard>
